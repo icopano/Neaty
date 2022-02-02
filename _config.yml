@@ -37,23 +37,27 @@ features                                  :
 
   - title                                 : Projects
     description                           : Create/Manage ongoing and completed projects, give them a title, a description and a category. You can optionally set deadlines, a notification will remind you when a deadline is close.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : hammer
     
   - title                                 : Notebooks
     description                           : Create beautiful colored notebooks, where you can take notes or write down your thoughts.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : book
 
   - title                                 : Bookmarks
     description                           : Save useful resources from the web for your projects and assign them an action. Is it something to watch, read or listen? This way you have everything under control. 
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : bookmark
 
   - title                                 : Tasks
     description                           : Create a list of the important things you need to do and give them a priority. Neaty will sort them accordingly and send you a reminder if you want to. 
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : check
+    
+  - title                                 : Audio Notes
+    description                           : Easily record your ideas and give them a title when you are on the go.
+    fontawesome_icon_name                 : microphone-alt
 
   - title                                 : Quotes
     description                           : Highly inspirational quotes will motivate you thoughout your day.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : quote-right
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
