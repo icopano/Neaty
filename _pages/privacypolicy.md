@@ -11,10 +11,6 @@ February 2 2022
 ## Introduction
 By using “Neaty: Project Management Tool”, you agree to our Terms of Use and our Privacy Policy. I invite you to fully read this page and make sure you understand its content prior to using “Neaty: Project Management Tool”.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
-
-<br>
-
 ## Neaty: Project Management Tool: Terms of Use & Privacy Policy
 Enrico Capano operates the “Neaty: Project Management Tool” mobile application (from now on referred to as “Neaty”) (name on the App Store subject to change for search and discovery purposes).
 Neaty is made available to you on an “as in”, with all faults and “as available” basis. I cannot guarantee that the app will function or maintain the same level of service in the future. That is applicable for both free and paid users.
