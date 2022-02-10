@@ -41,7 +41,7 @@ Neaty is a productivity app which aims to offer a simple user experience.
 No ads is present at this time
 
 ## About the developer
-Hi, I'm Enrico Capano from Italy, based in London. A geotechnical engineer by day and an Indie iOS developer by night.
+Hi, I'm Enrico Capano an Indie iOS developer from Italy, based in London.
 
 I have been working as a geotechnical engineer first in Paris and then in London for about 3 years now. I have always been fascinated by people making apps and over the pandemic I decided that my current employment was not going to be permanent. In fact since then, I started to study iOS development on my own. After about 1 year of study I released my first app Neaty and I am now starting to apply for iOS roles.
 
