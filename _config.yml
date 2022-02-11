@@ -56,7 +56,7 @@ features                                  :
     fontawesome_icon_name                 : microphone-alt
 
   - title                                 : Quotes
-    description                           : Highly inspirational quotes will motivate you thoughout your day.
+    description                           : Highly inspirational quotes will motivate you throughout your day.
     fontawesome_icon_name                 : quote-right
 
   - title                                 : # New Feature Title
