@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-February 2 2022
+January 31 2023
 
 # Neaty: Project Management Tool - Privacy Policy and Terms and Conditions
 ## Introduction
